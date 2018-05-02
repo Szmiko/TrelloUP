@@ -1,0 +1,9 @@
+.board {
+	width: 100%;
+	text-align: center;
+	background: lightblue;
+}
+
+.card-placeholder {
+	background: red;
+}
